@@ -13,11 +13,11 @@ public class FieldMessage {
         this.message = message;
     }
 
-    public String getfieldName() {
+    public String getFieldName() {
         return this.fieldName;
     }
 
-    public void setfieldName(String fieldName){
+    public void setFieldName(String fieldName){
         this.fieldName = fieldName;
     }
 
